@@ -3,5 +3,6 @@
 	{ "keys": ["alt+left"], "command": "jump_back"},
 	{ "keys": ["alt+right"], "command": "jump_forward"},
 	{ "keys": ["f12"], "command": "do_stuff"},
-	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"}
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+	{ "keys": ["ctrl+alt+t"], "command": "open_terminal"}
 ]
