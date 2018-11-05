@@ -1,0 +1,8 @@
+[
+	{ "keys": ["f3"], "command": "goto_definition"},
+	
+	{ "keys": ["alt+left"], "command": "jump_back"},
+	{ "keys": ["alt+right"], "command": "jump_forward"},
+
+	{ "keys": ["f12"], "command": "do_stuff"}
+]

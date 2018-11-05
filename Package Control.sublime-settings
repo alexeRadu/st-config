@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ARM Assembly",
+		"CTags",
+		"Git",
+		"Handlebars",
+		"MasmAssembly",
+		"P3 Assembly",
+		"Package Control",
+		"Terminal",
+		"TrailingSpaces",
+		"UIkit autocomplete",
+		"Whitespace Removal"
+	]
+}
