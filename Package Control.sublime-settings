@@ -5,9 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"ARM Assembly",
 		"CTags",
+		"FileIcons",
 		"Git",
 		"Handlebars",
 		"MasmAssembly",
