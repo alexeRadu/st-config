@@ -14,8 +14,11 @@
 			"Package Control.merged-ca-bundle"
 			"Package Control.user-ca-bundle"
 			"oscrypto-ca-bundle.crt"
+* [x] - Package cleanup
+* [ ] - Go through each package and see what provided functionality is used.
+	In case of duplicates remove packages.
 * [ ] - :READ: NeoVintagous package usage
-* [ ] - Package cleanup
+	check sublime-six package (better than neo-vintageous ???)
 * [ ] - better folding for C code
 	* [ ] - fold labels
 	* [ ] - fold #ifdefs
