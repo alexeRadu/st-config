@@ -1,3 +1,9 @@
 Package\ Control.cache/*
 Package\ Control.last-run
 *.sublime-workspace
+
+# Package control certificates. For details see:
+# https://forum.sublimetext.com/t/generating-oscrypto-ca-bundle-crt-after-mac-os-install-and-security/23020
+# https://github.com/wbond/package_control/issues/1153
+*-ca-bundle
+*-ca-bundle.crt
