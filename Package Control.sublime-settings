@@ -5,18 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"ARM Assembly",
 		"CTags",
 		"FileIcons",
 		"Git",
-		"Handlebars",
 		"MarkdownPreview",
-		"MasmAssembly",
-		"P3 Assembly",
 		"Package Control",
 		"Terminal",
 		"TrailingSpaces",
-		"UIkit autocomplete",
 		"Whitespace Removal"
 	]
 }
